@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=6AFyR4cyJNY
 You can find more videos in the channel 
 https://www.youtube.com/@unteachingmath
 
-THe contents are math, calculus, imaginary number, topology and euler equation ect,,
+The contents are math for instance, calculus, imaginary number, topology, euler equation ect,,
 
 
 
