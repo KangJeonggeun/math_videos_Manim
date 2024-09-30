@@ -1,15 +1,16 @@
-[Math Videos for the Public]
-Skills:
-Python, Manim, Technical Communication, Adobe Premiere Pro (Video Editing),
-Library Research
+# **Math Videos for the Public**
 
-About the Project:
+## **Skills:**
+**Python, Manim, Technical Communication, Adobe Premiere Pro (Video Editing), Library Research**
+
+## **About the Project:**
 I created mathematical YouTube videos for the public, particularly for individuals who are not familiar with mathematical concepts. The main idea was visualization and clear explanation. To create intuitive and high-quality graphics and animations, I used Manim, a visualization library for Python. Although the project was time-consuming and challenging, I learned how to familiarize myself with a new library and complete a programming project. Additionally, I learned how to explain technical concepts in a simple and understandable way for non-experts. I started this project because I believe that many people shy away from mathematics, despite its fascinating aspects.
 
 Some of my videos have achieved high view counts (the language is Korean):
-27k: https://youtu.be/L1qa5lriv48?si=WhG1qLUm_L9Ulgnu (about imaginary numbers),
-9.2k: https://youtu.be/6AFyR4cyJNY?si=fGB2hmz7a8qUxnB8 (about analysis), and
-2.8k: https://youtu.be/mZqbZMlTnjE?si=G25SxBjptH27S7kR (about Euler's formula).
+- **27k:** [https://youtu.be/L1qa5lriv48?si=WhG1qLUm_L9Ulgnu](https://youtu.be/L1qa5lriv48?si=WhG1qLUm_L9Ulgnu) (about imaginary numbers)
+- **9.2k:** [https://youtu.be/6AFyR4cyJNY?si=fGB2hmz7a8qUxnB8](https://youtu.be/6AFyR4cyJNY?si=fGB2hmz7a8qUxnB8) (about analysis)
+- **2.8k:** [https://youtu.be/mZqbZMlTnjE?si=G25SxBjptH27S7kR](https://youtu.be/mZqbZMlTnjE?si=G25SxBjptH27S7kR) (about Euler's formula)
+
 
 ![Thumbnail_ManimCE_v0 17 3](https://github.com/user-attachments/assets/55e1647e-22de-4b9d-982f-d3448db60d1a)
 ![Thubnail_ManimCE_v0 17 3](https://github.com/user-attachments/assets/3fc21c6d-8326-4534-883b-92fffb7331f3)
